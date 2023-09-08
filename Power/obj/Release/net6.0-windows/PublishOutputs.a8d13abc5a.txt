@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\PublishProject\Power.exe
+C:\Users\ADMIN\Documents\PublishProject\Power.dll
+C:\Users\ADMIN\Documents\PublishProject\Power.deps.json
+C:\Users\ADMIN\Documents\PublishProject\Power.runtimeconfig.json
+C:\Users\ADMIN\Documents\PublishProject\Power.pdb

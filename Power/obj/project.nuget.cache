@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "81X1F3TM6PZjHwcJb2jT2gYDlEMWejWX73NHpn7iV86NrsPKOpbSQvc4oTHfYWA15/UpzwSno1O4pHFG45wEgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\Power\\Power\\Power.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

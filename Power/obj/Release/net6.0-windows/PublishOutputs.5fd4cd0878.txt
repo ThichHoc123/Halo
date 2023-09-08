@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\PublishProject\Power\config.json
+C:\Users\ADMIN\Documents\PublishProject\Power\Power.exe
+C:\Users\ADMIN\Documents\PublishProject\Power\Power.dll
+C:\Users\ADMIN\Documents\PublishProject\Power\Power.deps.json
+C:\Users\ADMIN\Documents\PublishProject\Power\Power.runtimeconfig.json
+C:\Users\ADMIN\Documents\PublishProject\Power\Power.dll.config
+C:\Users\ADMIN\Documents\PublishProject\Power\Power.pdb
+C:\Users\ADMIN\Documents\PublishProject\Power\Newtonsoft.Json.dll
